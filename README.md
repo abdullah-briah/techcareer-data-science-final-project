@@ -5,16 +5,22 @@ Final project for the Techcareer Data Science Bootcamp, including data preproces
 ## 📁 Project Structure
 
 ```
-
-
-```
-
 project-folder/
 │
  
 ├── notebooks/           # Jupyter Notebook with analysis and visualizations
  
 └── README.md            # Project description
+
+```
+
+## 📊 Project Tasks
+````
+This project includes:
+Data filtering and sorting
+Exploratory data visualizations
+Working with population, GDP, literacy, and density fields
+Creating scatter plots, bar charts, and boxplots
 
 ````
 
