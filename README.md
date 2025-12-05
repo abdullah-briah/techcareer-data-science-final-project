@@ -1,4 +1,4 @@
-# Techcareer Data Science Final Projec
+# Techcareer Data Science Final Project
 
 Final project for the Techcareer Data Science Bootcamp, including data preprocessing, sorting, filtering, and visualizations based on the provided dataset.
 
