@@ -15,16 +15,6 @@ project-folder/
 ```
 
 ## 📊 Project Tasks
-````
-This project includes:
-Data filtering and sorting
-Exploratory data visualizations
-Working with population, GDP, literacy, and density fields
-Creating scatter plots, bar charts, and boxplots
-
-````
-
-## 📊 Project Tasks
 The project includes:
 - Data filtering and sorting operations
 - Exploratory data visualization
@@ -37,3 +27,6 @@ The project includes:
 - Matplotlib
 - Jupyter Notebook
 
+## 📬 Submission
+This repository is part of the final project for the Techcareer Data Science Bootcamp.
+After uploading all files, submit your repository link using the official form.
