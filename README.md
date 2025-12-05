@@ -7,11 +7,8 @@ Final project for the Techcareer Data Science Bootcamp, including data preproces
 ```
 project-folder/
 │
- 
 ├── notebooks/           # Jupyter Notebook with analysis and visualizations
- 
 └── README.md            # Project description
-
 ```
 
 ## 📊 Project Tasks
@@ -29,4 +26,3 @@ The project includes:
 
 ## 📬 Submission
 This repository is part of the final project for the Techcareer Data Science Bootcamp.
-After uploading all files, submit your repository link using the official form.
